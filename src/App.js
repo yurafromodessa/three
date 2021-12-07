@@ -1,11 +1,11 @@
 import './App.css';
-import List from "./HomeWork/List.js";
-import someData from './HomeWork/news.json'
+import {Home} from "./HomeWork/Home";
+import {List} from "./HomeWork/List.js"
 
 function App() {
   return(
      <List/>
-  )
+  );
 }
 
 export default App;
