@@ -4,7 +4,7 @@ import {List} from "./HomeWork/List.js"
 
 function App() {
   return(
-     <List/>
+     <Home/>
   );
 }
 
